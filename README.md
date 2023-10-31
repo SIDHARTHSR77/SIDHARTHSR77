@@ -10,7 +10,7 @@ LinkedIn:
 https://www.linkedin.com/in/sidharth-s-r-6a297b268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 - 📫 How to reach me ...
-Fell free to reach me through LinkedIn
+Fell free to reach me through LinkedIn OR
 Mail- srsidharthsidhu@gmail.com
 <!---
 SIDHARTHSR77/SIDHARTHSR77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
