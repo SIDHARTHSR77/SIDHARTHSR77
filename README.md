@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... AI and Game development
 and also 3D Art and "ART" in general regardless of the medium. 
 - 🌱 I’m currently learning ...
-Pursuing an engineering degree in AI&ML in Indian, Tamil Nadu
-Also learning 3D art (blender) and game development unreal engine
+Pursuing an Engineering degree in AI&ML in Indian, Tamil Nadu.
+Also learning 3D art (blender) and Game Development Unity Engine
 - 💞️ I’m looking to collaborate on ...
 Github: SIDHARTHSR77
 
